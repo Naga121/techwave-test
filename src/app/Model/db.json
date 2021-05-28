@@ -1,0 +1,92 @@
+{
+  "contacts": [
+    {
+      "address": "90, IST floor , Main Road",
+      "city": "T Nagar,Chennai",
+      "pin": 600017,
+      "image": "p1.jpg"
+    },
+    {
+      "address": "9023, 2nd floor , Tilak cross",
+      "city": "MG Road,Hyderabad",
+      "pin": 589034,
+      "image": "p2.jpg"
+    },
+    {
+      "address": "43, 3rd floor , Jay Road",
+      "city": "Gandhi Nagar, Mumbai",
+      "pin": 100011,
+      "image": "p3.jpg"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Branding & Comminucation",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis non ducimus, soluta minus nobis eaque voluptate, commodi suscipit cumque pariatur praesentium veniam cum voluptates iure molestiae culpa numquam tempore tenetur.",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Inbound & Content Markting",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis non ducimus, soluta minus nobis eaque voluptate, commodi suscipit cumque pariatur praesentium veniam cum voluptates iure molestiae culpa numquam tempore tenetur.",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Film & Webinar",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis non ducimus, soluta minus nobis eaque voluptate, commodi suscipit cumque pariatur praesentium veniam cum voluptates iure molestiae culpa numquam tempore tenetur.",
+      "image": "img3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Websites & ECommerce",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis non ducimus, soluta minus nobis eaque voluptate, commodi suscipit cumque pariatur praesentium veniam cum voluptates iure molestiae culpa numquam tempore tenetur.",
+      "image": "img4.jpg"
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "title": "Creating powerful brands and recognizable identities",
+      "description": [
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis non ducimus,",
+        " soluta minus nobis eaque voluptate, commodi suscipit cumque pariatur praesentium veniam cum voluptates iure molestiae culpa numquam tempore tenetur."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Quality content and inbound services to drive profitable business",
+      "description": [
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis non ducimus,",
+        " soluta minus nobis eaque voluptate, commodi suscipit cumque pariatur praesentium veniam cum voluptates iure molestiae culpa numquam tempore tenetur."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "A picture speaks a thousand words",
+      "description": [
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis non ducimus,",
+        " soluta minus nobis eaque voluptate, commodi suscipit cumque pariatur praesentium veniam cum voluptates iure molestiae culpa numquam tempore tenetur."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Connecting your offline and online worlds",
+      "description": [
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis non ducimus,",
+        " soluta minus nobis eaque voluptate, commodi suscipit cumque pariatur praesentium veniam cum voluptates iure molestiae culpa numquam tempore tenetur."
+      ]
+    }
+  ],
+  "enquiry": [
+    {
+      "id": 473,
+      "fname": "Thota",
+      "lname": "Nagaraju",
+      "email": "thota.nagaraju1432@gmail.com",
+      "cname": "techwave",
+      "msg": "tuvtort8brtbrfdbvytvr uydfrg"
+    }
+  ]
+}

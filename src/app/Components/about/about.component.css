@@ -1,0 +1,12 @@
+.overview{
+    margin: 10px;
+    padding: 30px;
+}
+h3{
+    color: rgb(236, 159, 159);
+    font-size: 30px;
+}
+#about,#overview{
+    color: rgb(88, 88, 85);
+    padding: 10px;
+}

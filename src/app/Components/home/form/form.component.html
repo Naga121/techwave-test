@@ -1,0 +1,33 @@
+<div id="form">
+    <h1 style="margin-bottom: 50px; text-align: center;">Send Us your enquiries</h1>
+    <div style="overflow: hidden;margin-left: 200px;">
+        <div class="formbox">
+            <h5>First Name <span class="text-danger">*</span></h5>
+            <input type="text" placeholder="Enter Your FirstName" class="form-control" [(ngModel)]="fname">
+        </div>
+        <div class="formbox">
+            <h5>Last Name <span class="text-danger">*</span></h5>
+            <input type="text" placeholder="Enter Your LastName" class="form-control" [(ngModel)]="lname">
+        </div>
+        <div class="formbox">
+            <h5>Email <span class="text-danger">*</span></h5>
+            <input type="email" placeholder="Enter Your Email" class="form-control" [(ngModel)]="email">
+        </div>
+        <div class="formbox">
+            <h5>Company <span class="text-danger">*</span></h5>
+            <input type="text" placeholder="Enter the Company Name" class="form-control" [(ngModel)]="cname">
+        </div>
+        <div class="formbox">
+            <h5>Message</h5>
+            <textarea class="form-control text-center p-3" placeholder="Enter Message"  [(ngModel)]="msg"></textarea>
+        </div>
+    </div>
+    <div class="alert alert-info" *ngIf="errors.length>0">
+        <ul >
+            <li *ngFor="let x of errors">{{x}}</li>
+        </ul>
+    </div>
+    <div style=" text-align: center;">
+        <button class="btn btn-primary btn-outline-dark  mt-5" (click)="submit()">Submit Enquiry</button>
+    </div>
+</div>

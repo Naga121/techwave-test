@@ -1,0 +1,13 @@
+.box{
+    height: 300px;
+    width: 250px;
+    margin: 20px;
+    float: left;
+    padding: 20px;
+    background-color: lightslategrey;
+    color: white;
+}
+li{
+    list-style: none;
+    cursor: pointer;
+}

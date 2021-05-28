@@ -1,0 +1,10 @@
+.navbar-nav .nav-item{
+    color: black;
+    font-size: initial;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+.navbar-brand{
+    font-size: inherit;
+    font-weight: bold;
+}

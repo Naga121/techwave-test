@@ -1,0 +1,17 @@
+.details{
+    margin-top: 60px;
+    background-color: rgb(230, 235, 248);
+}
+
+.details h2{
+    margin-top: 10px;
+    text-align:left;
+    padding: 5px;
+    color: rgb(245, 88, 60);
+    font-weight: bolder;
+    font-style: inherit;
+}
+
+.details p{
+    margin-left: 50px;
+}
